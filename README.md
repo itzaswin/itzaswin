@@ -109,7 +109,7 @@ class AswinKumarR:
 ## 💼 Work Experience
 
 <details>
-<summary><strong>💻 Python Developer @ HIGS Software Solutions &nbsp;|&nbsp; Jun 2026 – Present &nbsp;|&nbsp; Nagercoil, India</strong></summary>
+<summary><strong>💻 Python Developer @ HIGS Software Solutions &nbsp;|&nbsp; Jun 2026 - Present &nbsp;|&nbsp; Nagercoil, India</strong></summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ class AswinKumarR:
 <br/>
 
 <details>
-<summary><strong>🏥 KMMC Medical College & Hospitals - System & Database Administrator &nbsp;|&nbsp; Aug 2025 – Jan 2026 &nbsp;|&nbsp; Kanyakumari, India</strong></summary>
+<summary><strong>🏥 KMMC Medical College & Hospitals - System & Database Administrator &nbsp;|&nbsp; Aug 2025 - Jan 2026 &nbsp;|&nbsp; Kanyakumari, India</strong></summary>
 
 <br/>
 
@@ -185,7 +185,7 @@ class AswinKumarR:
   <a href="https://linkedin.com/in/itsaswin">
     <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;Python Develope
   <a href="https://itsaswin.vercel.app/">
     <img src="https://img.shields.io/badge/View%20Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
