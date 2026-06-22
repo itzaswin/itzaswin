@@ -115,7 +115,7 @@ class AswinKumarR:
 
 - Develop and train Deep Learning models (CNN, RNN, LSTM, Transfer Learning) using TensorFlow and Keras for classification and prediction tasks
 - Build Computer Vision pipelines for image processing and object analysis using OpenCV
-- Handle end-to-end data workflows — preprocessing, feature extraction, augmentation, and model optimization
+- Handle end-to-end data workflows preprocessing, feature extraction, augmentation, and model optimization
 - Develop desktop AI applications using Tkinter and CustomTkinter with full model integration
 - Work on research-adjacent projects in predictive analytics, NLP, and image processing
 
