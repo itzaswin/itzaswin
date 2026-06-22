@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aswin%20Kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aswin%20Kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://www.instagram.com/aswin_kutta_" target="_blank">
@@ -18,23 +18,27 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+ML+Engineer;Building+RAG+%2B+Agentic+AI+Systems;LLM+Fine-tuning+%7C+NLP+%7C+Deep+Learning;Python+%7C+TensorFlow+%7C+LangChain+%7C+HuggingFace" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Python+Developer+%7C+ML+Engineer;Building+RAG+%2B+Agentic+AI+Systems;LLM+Fine-tuning+%7C+NLP+%7C+Deep+Learning;TensorFlow+%7C+LangChain+%7C+HuggingFace+%7C+OpenCV" alt="Typing SVG"/>
 </div>
 
 ---
 
 ## 🧠 About Me
+
+<!-- <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
+
 ```python
 class AswinKumarR:
     name     = "Aswin Kumar R"
     location = "Nagercoil, Tamil Nadu, India"
     degree   = "B.E. Computer Science Engineering (Anna University)"
-    role     = "Software Developer | ML Engineer"
+    role     = "Python Developer | ML Engineer"
     email    = "itsaswin.in@gmail.com"
 
     stack = [
-        "Python", "SQL", "TensorFlow", "LangChain",
-        "HuggingFace", "FastAPI", "Flask", "Docker", "Power BI"
+        "Python", "SQL", "TensorFlow", "Keras", "LangChain",
+        "HuggingFace", "FastAPI", "Django", "Flask", "Docker",
+        "OpenCV", "Tkinter", "Power BI"
     ]
 
     currently_learning = [
@@ -72,6 +76,13 @@ class AswinKumarR:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=flat-square&logo=python&logoColor=white)
+![LLM Fine--tuning](https://img.shields.io/badge/LLM%20Fine--tuning-6B48FF?style=flat-square&logo=huggingface&logoColor=white)
+
+**Computer Vision & Desktop**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF8C00?style=flat-square&logo=python&logoColor=white)
 
 **Data & Visualization**
 
@@ -84,11 +95,13 @@ class AswinKumarR:
 **Frameworks & DevOps**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
@@ -96,7 +109,7 @@ class AswinKumarR:
 ## 💼 Work Experience
 
 <details>
-<summary><strong>💻  Python Developer @ HIGS Software Solutions &nbsp;|&nbsp; Jun 2026 - Present &nbsp;|&nbsp; Nagercoil, India</strong></summary>
+<summary><strong>💻 HIGS Software Solutions — Python Developer &nbsp;|&nbsp; Jun 2026 – Present &nbsp;|&nbsp; Nagercoil, India</strong></summary>
 
 <br/>
 
@@ -110,13 +123,14 @@ class AswinKumarR:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF8C00?style=flat-square&logo=python&logoColor=white)
 
 </details>
 
 <br/>
 
 <details>
-<summary><strong>🏥 KMMC Medical College & Hospitals - System & Database Administrator &nbsp;|&nbsp; Aug 2025 – Jan 2026 &nbsp;|&nbsp; Kanyakumari, India</strong></summary>
+<summary><strong>🏥 KMMC Medical College & Hospitals — System & Database Administrator &nbsp;|&nbsp; Aug 2025 – Jan 2026 &nbsp;|&nbsp; Kanyakumari, India</strong></summary>
 
 <br/>
 
@@ -139,7 +153,7 @@ class AswinKumarR:
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
 | B.E. Computer Science Engineering | Vins Christian College of Engineering, Anna University | 2024 | 8.0 / 10 CGPA |
-| HSC - Computer Science | Hindu Vidyalaya Matriculation School | 2020 | 70% |
+| HSC - Computer Science | Hindu Vidyalaya Matriculation School | — | 70% |
 
 </div>
 
