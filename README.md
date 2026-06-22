@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aswin%20Kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aswin%20kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20ML%20Engineer%20%7C%20GenAI%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://www.instagram.com/aswin_kutta_" target="_blank">
@@ -109,7 +109,7 @@ class AswinKumarR:
 ## 💼 Work Experience
 
 <details>
-<summary><strong>💻 HIGS Software Solutions — Python Developer &nbsp;|&nbsp; Jun 2026 – Present &nbsp;|&nbsp; Nagercoil, India</strong></summary>
+<summary><strong>💻 Python Developer @ HIGS Software Solutions &nbsp;|&nbsp; Jun 2026 – Present &nbsp;|&nbsp; Nagercoil, India</strong></summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ class AswinKumarR:
 <br/>
 
 <details>
-<summary><strong>🏥 KMMC Medical College & Hospitals — System & Database Administrator &nbsp;|&nbsp; Aug 2025 – Jan 2026 &nbsp;|&nbsp; Kanyakumari, India</strong></summary>
+<summary><strong>🏥 KMMC Medical College & Hospitals - System & Database Administrator &nbsp;|&nbsp; Aug 2025 – Jan 2026 &nbsp;|&nbsp; Kanyakumari, India</strong></summary>
 
 <br/>
 
